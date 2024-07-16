@@ -6,3 +6,4 @@ library(raster)
 
 # Visualizacion de datos
 
+shapefile("")
