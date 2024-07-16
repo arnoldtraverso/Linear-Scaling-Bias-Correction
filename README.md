@@ -1,0 +1,1 @@
+This initiative seeks to implement the development of an interactive script in R, to adjust precipitation data from the CHIRPS model with the RAIN4PE model, seeking to adequately represent precipitation in the Mayo River basin in Peru.
